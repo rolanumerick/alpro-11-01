@@ -1,6 +1,7 @@
 # Teori — Pekan 01
 
 Introduction
+
 Algoritma: Menghitung Volume Baju
 1. Pakai penggaris untuk mengukur panjang lemari
 2. Tuliskan hasil ukuran panjang lemari dikertas
